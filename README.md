@@ -2,11 +2,11 @@
 [tattoopro@email.cz](mailto:tattoopro@email.cz)
 
 **Team members:**  
-Cihlář Ondřej [cihlaond@fit.cvut.cz](mailto:cihlaond@fit.cvut.cz)  
-Seibert Michal [seibemic@fit.cvut.cz](mailto:seibemic@fit.cvut.cz)  
-Patera Michal [patermi2@fit.cvut.cz](mailto:patermi2@fit.cvut.cz)  
-Pončák Adam [poncaada@fit.cvut.cz](mailto:poncaada@fit.cvut.cz)  
-Šprachta Vít [spracvit@fit.cvut.cz](mailto:spracvit@fit.cvut.cz)  
+Cihlář Ondřej  
+Seibert Michal  
+Patera Michal   
+Pončák Adam   
+Šprachta Vít   
 Zuňiga Jorge [zunigjor@fit.cvut.cz](mailto:zunigjor@fit.cvut.cz)
 
 **TattooPro** is a platform for connecting tattoo artists with their clients. Often clients have an idea about the tattoo they want to get but have trouble finding a tattoo artist that might be an expert in the selected style.
