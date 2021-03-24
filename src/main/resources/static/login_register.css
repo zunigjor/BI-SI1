@@ -1,0 +1,99 @@
+body{
+	margin: 100px 0px;
+	padding:0px;
+	text-align:center;
+	margin: 100px;
+}
+
+input[type=text], input[type=password], input[type=email], select{
+	width:80%;
+	display:inline-block;
+	padding:7px 10px;
+	margin: 8px 0;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+button{
+	background-color:#4CAF50;
+	width: 20%;
+	padding: 9px 5px;
+	margin:5px 0;
+	cursor:pointer;
+	border:none;
+	color:#ffffff;
+}
+
+button:hover{
+	opacity:0.8;
+}
+
+a{
+	font-size: 15px;
+}
+
+.form-container{
+	width: 50%;
+	margin: 0 auto;
+}
+
+.form-content-login{
+	width: 40%;
+	margin: 0 auto;
+	padding-right: 50px;
+}
+
+.form-container form{
+	display: flex;
+	flex-wrap: no-wrap;
+	flex-flow: row;
+	justify-content: center;
+}
+
+.form-labels{
+	text-align: right;
+	font-size: 18px;
+	
+}
+
+.form-labels label, .form-input *, .form-content-login *{
+	font-family:'Lato', sans-serif;
+	color: gray;
+}
+
+.form-input select{
+	padding:7px 10px;
+	margin: 8px 0;
+	border: 1px solid #ccc;
+}
+
+.form-input *{
+	height: 32px;
+}
+
+.label-div{
+	height: 48px;
+	vertical-align: center;
+}
+
+.artist-only{
+	visibility: collapse;
+}
+
+#uname, #upass{
+	width:50%;
+}
+
+#submit{
+	width:10rem;
+	color:#ffffff;
+	margin-left: 3rem;
+}
+
+#expand-toggle:checked ~ .artist-only {
+    visibility: visible;
+}
+
+b{
+	color: red;
+}

@@ -1,0 +1,10 @@
+fit.cvut.si1.semestralka.tattooPro
+fit.cvut.si1.semestralka.tattooPro.data.DAO.implementation
+fit.cvut.si1.semestralka.tattooPro.data.DAO.interfaces
+fit.cvut.si1.semestralka.tattooPro.data.entities
+fit.cvut.si1.semestralka.tattooPro.logic.security
+fit.cvut.si1.semestralka.tattooPro.logic.service.implementation
+fit.cvut.si1.semestralka.tattooPro.logic.service.interfaces
+fit.cvut.si1.semestralka.tattooPro.web.DTO
+fit.cvut.si1.semestralka.tattooPro.web.controllers
+fit.cvut.si1.semestralka.tattooPro.web.html.generator
