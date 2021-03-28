@@ -1,6 +1,8 @@
 # BI-SI1 Software Engineering I
 
 ### Team project on a website for connecting tattoo artists and clients.
+Documentation: **UML**  
+Technologies used: **Java Spring**, **Javascript**, **HTML**  
 
 | Iterace | body  |
 |---------|-------|
